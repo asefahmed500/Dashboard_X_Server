@@ -1,0 +1,5 @@
+node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
+
+genetate ACCESS_TOKEN_SECRET using the command 
+
+
